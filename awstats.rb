@@ -7,7 +7,7 @@ require "formula"
 class Awstats < Formula
   homepage "http://awstats.sourceforge.net/"
   url "http://prdownloads.sourceforge.net/awstats/awstats-7.5.tar.gz"
-  sha256 "b2a9b591cdd1faf4c4fbc222a5d4889ec3dd683cf39fa78aebb4e53b6fabaf9e"
+  sha256 "83c34bdeab9c277c14bea348c2d320f4a1e808388264139821c6bd6dfd1394f8"
 
   def install
     bin.install Dir['tools/*.pl']
