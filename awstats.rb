@@ -6,7 +6,7 @@ require "formula"
 
 class Awstats < Formula
   homepage "http://awstats.sourceforge.net/"
-  url "http://prdownloads.sourceforge.net/awstats/awstats-7.5.tar.gz"
+  url "https://downloads.sourceforge.net/project/awstats/AWStats/7.5/awstats-7.5.tar.gz"
   sha256 "83c34bdeab9c277c14bea348c2d320f4a1e808388264139821c6bd6dfd1394f8"
 
   def install
